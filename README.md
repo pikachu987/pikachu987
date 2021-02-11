@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/badge/github-black.svg?logoColor=white&logo=github&link=https://github.com/pikachu987)](https://github.com/pikachu987/)
 [![Personal Blog](https://img.shields.io/badge/-Personal%20Tech%20Blog-black?style=flat&logo=github&link=http://pikachu987.tistory.com)](http://pikachu987.tistory.com/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=cv&link=https://pikachu987.github.io/cv)](https://pikachu987.github.io/cv/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=cv&color=blue&link=https://pikachu987.github.io/cv)](https://pikachu987.github.io/cv/)
 [![Repository](https://img.shields.io/github/stars/pikachu987?color=black&logoColor=white&logo=github&link=https://github.com/search?q=user%3Apikachu987+&s=stars&type=Repositories)](https://github.com/search?q=user%3Apikachu987+&s=stars&type=Repositories/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:pikachu77769@gmail.com)](mailto:pikachu77769@gmail.com)
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/gaunho.kim)](https://www.facebook.com/gaunho.kim/)
