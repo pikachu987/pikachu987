@@ -12,5 +12,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikachu987&layout=compact&langs_count=10&hide=Objective-C,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👨🏻‍💻 서울에 살고 있는 iOS 개발자입니다.
+- 👨🏻‍💻 분당에 살고 있는 iOS 개발자입니다.
 - 🙋🏻‍♂️ 라이브러리와 앱 만드는것을 좋아합니다.
